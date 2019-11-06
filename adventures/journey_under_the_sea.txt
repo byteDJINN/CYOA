@@ -11,6 +11,7 @@ story with different choices will lead you to uncovering new mysterious hidden i
 
 *2
 Page 2
+^Next page,3
 You are an underwater explorer. You are leaving to explore the deepest oceans. You must find
 the lost city of Atlantis. This is your most challenging assignment.
 It is morning and the sun pushes up on the
