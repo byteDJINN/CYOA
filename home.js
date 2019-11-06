@@ -52,7 +52,9 @@ function check_cookie(x, backup) {
 
 function get_adventure() {
     var file = prompt("Enter Filename: ", "tutorial.txt");
-    set_cookie("file", file);
-    window.location.href = "cyoa.html";
+    if (file != null) {
+        set_cookie("file", file);
+        window.location.href = "cyoa.html";
+    }
 
 }
