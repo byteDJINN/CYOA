@@ -93,7 +93,7 @@ function generate_html() {
                 c++;
             }
             while (lines[i + c][0] != "*") {
-                TEXT = TEXT + lines[i + c];
+                TEXT = TEXT + " "+ lines[i + c];
                 c++;
             }
             break;
