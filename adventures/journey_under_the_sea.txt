@@ -119,8 +119,8 @@ recharged aboard the Maray, now more than
 
 *10
 Page 10
-^decide to fight the squid with your spear gun, hoping to scare it off,17
-^decide to signal Maray to pull you up at top speed, knowing you will get the bends,18
+^decide to fight the squid with your spear gun hoping to scare it off,17
+^decide to signal Maray to pull you up at top speed knowing you will get the bends,18
 The giant squid tosses and turns the Seeker, but
 finally the creature grows tired of its new game and
 jets off with an enormous squirt of water. You now
@@ -443,7 +443,7 @@ world above. It is up to you to decide.
 
 *29
 Page 29
-^hurry in, trying to reach the secret passageway without being seen,43
+^hurry in trying to reach the secret passageway without being seen,43
 ^rush back to the Seeker trying to escape danger,44
 The submarine is indeed mysterious. You now
 have on your sea suit and you open the hatch on
@@ -552,7 +552,7 @@ run out?
 *35
 Page 35
 ^decide to keep struggling towards the surface,50
-^decide to rest quietly, gain strength, and work out a plan,53
+^decide to rest quietly gain strength and work out a plan,53
 You suddenly realize the stream of bubbles is
 powerful enough to raise the Seeker. You guide
 the Seeker into the bubble stream and it heads
@@ -996,7 +996,7 @@ tough. He wants you to be an advisor on his staff.
 *61
 Page 61
 ^accept their wish to become their leader,81
-^decide to help them in the planning, but also to escape from this sad world,86
+^decide to help them in the planning but also to escape from this sad world,86
 The problem is where do they escape to? The
 king is in charge. He rules the world below the sea
 and his spies are everywhere. The only answer is
