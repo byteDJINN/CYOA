@@ -11,7 +11,6 @@ story with different choices will lead you to uncovering new mysterious hidden i
 
 *2
 Page 2
-^Next page,3
 You are an underwater explorer. You are leaving to explore the deepest oceans. You must find
 the lost city of Atlantis. This is your most challenging assignment.
 It is morning and the sun pushes up on the
@@ -298,7 +297,6 @@ The End
 
 *20
 Page 20
-^Next page,21
 
 
 *21
@@ -363,7 +361,6 @@ The End
 
 *24
 Page 24
-^Next page,25
 You are able to capture the bubbling gases and
 fill the tanks of the Seeker, enough to allow it to
 rise. Slowly, the Seeker rises out of the canyon,
@@ -492,7 +489,6 @@ The End
 
 *32
 Page 32
-^Next page,33
 With great sorrow, you decide that it is wisest to
 leave the expedition now. You can't risk returning
 to the great depths below. So, you reluctantly
@@ -780,7 +776,6 @@ The End
 
 *48
 Page 48
-^Next page,49
 Again the Seeker is lowered over the side of the
 Maray and slips into the ocean. Fish swim by peering cautiously at you in your metal shell. The sunlight fades as you descend into the abyss.
 You are headed for the giant canyon below that
@@ -945,7 +940,6 @@ The End
 
 *59
 Page 59
-^Next page,60
 "No, I refuse to have this insane operation. I
 t want to become a fish!"
 don'
@@ -1247,7 +1241,6 @@ The End
 
 *75
 Page 75
-^Next page,76
 Escape will be difficult, but you decide that you
 must get away from these people. The best plan is
 to tell them that you want to accept their offer to
@@ -1292,7 +1285,6 @@ The End
 
 *77
 Page 77
-^Next page,78
 Maybe you can learn from the Atlanteans how
 they achieve such happiness in their lives. You will
 seek out their history.
@@ -1311,7 +1303,6 @@ The End
 
 *78
 Page 78
-^Next page,79
 
 
 *79
@@ -1445,7 +1436,6 @@ The End
 
 *86
 Page 86
-^Next page,87
 It is their world, but you are willing to help them
 with the planning for the overthrow of the king.
 You want no real part in the revolt.
@@ -1470,7 +1460,6 @@ The End
 
 *87
 Page 87
-^Next page,88
 t know what to do.
 You admit that you just don'
 t
@@ -1705,7 +1694,6 @@ The End
 
 *98
 Page 98
-^Next page,99
 You faint, and when you come to, you are
 floating on the surface of the ocean. There is a
 heavy ocean swell and the sun beats down on you.
@@ -1730,7 +1718,6 @@ The End
 
 *99
 Page 99
-^Next page,100
 The walls of the whirlpool look like solid ridges
 sloping upwards to the surface. The water is rushing so fast that the center looks absolutely calm.
 You wonder if perhaps you could swim up through
@@ -1751,7 +1738,6 @@ The End
 
 *100
 Page 100
-^Next page,101
 The ocean floor has a small metal hatch on it.
 You pull with all your strength but it will not open.
 You rest for a moment and look through the wall of
@@ -1793,7 +1779,6 @@ The End
 
 *102
 Page 102
-^Next page,103
 You are in the Atlantean world; why not become like an Atlantean? Looking down at your
 hands, you see them gradually begin to glow with
 a warm, yellow light. Little by little, the glow travels
@@ -1812,7 +1797,6 @@ The End
 
 *103
 Page 103
-^Next page,104
 Farming under the sea is a job that you enjoy.
 Outside Atlantis, there are fields of sea plants that
 are worked on just like gardens above the sea.
@@ -1830,7 +1814,6 @@ The End
 
 *104
 Page 104
-^Next page,105
 A musician in the world of Atlantis. Who would
 believe it? You are asked to choose an instrument
 to play. You examine water lutes, sea drums, shark
@@ -1849,7 +1832,6 @@ The End
 
 *105
 Page 105
-^Next page,106
 These people lead you to a control room. There
 you meet the commander of an underwater scientific center that is conducting secret research into
 life underneath the sea. They inform you that it
@@ -1865,7 +1847,6 @@ The End
 
 *106
 Page 106
-^Next page,107
 When you refuse to follow them, they take out
 small hand-held hypnotizers that put you into a
 deep trance. You are led through a long tunnel
@@ -1880,7 +1861,6 @@ The End
 
 *107
 Page 107
-^Next page,108
 You argue with yourself for weeks. Then you
 decide to go back to Atlantis. You are in such a
 hurry to return that you hire a small, fast hydrofoil
@@ -1900,7 +1880,6 @@ The End
 
 *108
 Page 108
-^Next page,109
 During the night, you are awakened by the
 sound of voices talking quietly. Listening, you
 realize that a group of Nodoors is planning an
@@ -1923,7 +1902,6 @@ The End
 
 *110
 Page 110
-^Next page,111
 Over 1000 years of thought travel later, you are
 called into the main thinking room. You are told
 that you may now return to earth life. You have
@@ -1947,7 +1925,6 @@ The End
 
 *111
 Page 111
-^Next page,112
 One day your friends tell you that you can return
 to earth if you wish. You consider it carefully and
 decide that because of your thought traveling ability, the life you now lead is what you want. You
@@ -1957,7 +1934,6 @@ The End
 
 *112
 Page 112
-^Next page,113
 Years ago the Atlanteans had worked out
 emergency procedures, but most people had forgotten them. One old person remembers where
 the emergency instructions and equipment were
@@ -1973,7 +1949,6 @@ The End
 
 *114
 Page 114
-^Next page,115
 With everyone worried about the sea crashing
 in, no one will notice you if you try to escape. You
 run down a long, little-used corridor that leads to
@@ -1988,7 +1963,6 @@ The End
 
 *116
 Page 116
-^Next page,117
 It is useless to try to escape the soldiers. You are
 surrounded. They take you to the king, and he
 sadly tells you that you are just like all the rest. He
@@ -2001,7 +1975,6 @@ The End
 
 *117
 Page 117
-^Next page,118
 How can you escape? The soldiers are coming
 after you. You yell as loud as you can and everyone in the theater surrounds you, forming a barrier
 to the soldiers. The soldiers stare at the people all
