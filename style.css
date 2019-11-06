@@ -1,0 +1,50 @@
+body {
+    background-color: #e0d1a8;
+}
+#title {
+    font-size:30px;
+    font-weight: bold;
+}
+#choices button {
+    background-color: #d1b977;
+    font-size: 17px;
+    font-family: 'Comic Sans MS';
+    text-align: center;
+    border: 2px solid #baa56a;
+}
+    #choices button:hover {
+        background-color: #d1b977;
+        border: 2px solid #998039;
+    }
+#home_button {
+    background-color: #d1b977;
+    font-size: 17px;
+    font-family: 'Comic Sans MS';
+    text-align: center;
+    border: 2px solid #baa56a;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+    #home_button:hover {
+        background-color: #d1b977;
+        border: 2px solid #998039;
+    }
+#fancy_btn {
+    background-color: #d1b977;
+    font-size: 17px;
+    font-family: 'Comic Sans MS';
+    text-align: center;
+    border: 2px solid #baa56a;
+}
+
+    #fancy_btn:hover {
+        background-color: #d1b977;
+        border: 2px solid #998039;
+    }
+
+#text {
+    font-size:20px;
+    font-family: 'Comic Sans MS';
+}

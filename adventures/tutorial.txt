@@ -1,0 +1,16 @@
+*start
+Awake
+^ go back to sleep,death
+^ look around,reaper
+You awoke. 
+
+*death
+The End
+^ restart,start
+You have died.
+
+*reaper
+The Reaper
+^ continue...,death
+A large dark creature stands before. It swings its giant scythe.
+*
