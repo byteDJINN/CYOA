@@ -10,11 +10,21 @@
     <button onclick="window.location.href='/cyoa.html'" id="home_button">Game</button>
     <div id="text">
         Version: 1.0.1<br />
-        A list of adventures can be found <a href="https://github.com/Elodin77/CYOA/tree/master/adventures">here</a>.<br />
+        A full list of adventures can be found <a href="https://github.com/Elodin77/CYOA/tree/master/adventures">here</a>.<br />
         Sometimes you may need to reload the page a few times if the adventure doesn't load. Otherwise you should
-        check that the file name you specified is a valid file.
-    </div>
-    <button onclick="get_adventure()" id="fancy_btn">Select Adventure</button>
+        check that the file name you specified is a valid file.<br /><br />
+        <b>Short List of Adventures:</b>
+        <ul>
+            <li>tutorial.txt</li>
+            <li>journey_under_the_sea.txt</li>
+
+        </ul>
+
+
+    </div><br />
+    
+    <button onclick="get_adventure()" id="fancy_btn">Select Adventure</button><br />
+    <button onclick="set_cookie('id','start',365)" id="fancy_btn">Restart Adventure</button>
 </body>
 
 

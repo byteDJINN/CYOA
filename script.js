@@ -67,7 +67,7 @@ function check_cookie(x, backup) {
 function generate_html() {
     
     check_cookie("id", "start");
-    check_cookie("file", "tutorial.txt");
+    check_cookie("file", "journey_under_the_sea.txt");
 
     // VARIABLES
     var TITLE = "";

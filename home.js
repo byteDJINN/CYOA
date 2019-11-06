@@ -51,9 +51,10 @@ function check_cookie(x, backup) {
 }
 
 function get_adventure() {
-    var file = prompt("Enter Filename: ", "tutorial.txt");
+    var file = prompt("Enter Filename: ", "journey_under_the_sea.txt");
     if (file != null) {
         set_cookie("file", file);
+        set_cookie("id", "start");
         window.location.href = "cyoa.html";
     }
 
