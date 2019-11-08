@@ -1,6 +1,6 @@
 ---
 name: Storyline Bug Report
-about: Create a report to help me improve
+about: Report a storyline error preventing progress or containing incorrect information.
 title: Storyline Bug
 labels: ''
 assignees: ''
