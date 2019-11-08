@@ -48,3 +48,9 @@ body {
     font-size:28px;
     font-family: 'Comic Sans MS';
 }
+
+
+#counter {
+    width: 20%;
+    height: auto;
+}
