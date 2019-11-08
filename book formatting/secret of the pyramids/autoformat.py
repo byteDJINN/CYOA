@@ -38,7 +38,7 @@ for p in pages:
     elif len(choices) == 0 and "The End" not in p:
       choices = ["Next page, turn to page "+str(int(pg_number)+1)]
     for c in choices:
-      c = c.replace('\n',' ')
+      c = c.replace('\n',' ').replace("go on to page","turn to page")
       c = re.match("(.+), turn to page ([0-9]+)",c,re.DOTALL)
       if c != None:
         output.write("^"+c.group(1).replace(",","")+","+c.group(2)+"\n")
@@ -49,6 +49,7 @@ for p in pages:
     output.write(text+"\n")
     #break
   #print(progress/n*100)
+output.write("\n*\n")
 
 output.close()
 

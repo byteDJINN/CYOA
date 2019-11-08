@@ -37,7 +37,7 @@ for p in pages:
     output.write(text+"\n")
     #break
   #print(progress/n*100)
-
+output.write("\n*\n")
 output.close()
 
 
