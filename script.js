@@ -62,6 +62,7 @@ function generate_html() {
     
     check_cookie("id", "start");
     check_cookie("file", "journey_under_the_sea.txt");
+    check_cookie("achievements", "");
 
     // VARIABLES
     var TITLE = "";
@@ -108,6 +109,15 @@ function generate_html() {
         choice_div.appendChild(button);
         choice_div.appendChild(document.createElement("br"));
     }
+    if (TEXT.includes("The End") && !get_cookie("achievements").split(",").includes(get_cookie("file") + '*' + get_cookie("id"))) {
+        alert("You got an achievement for reaching an end!!!");
+        if (get_cookie("achievements") == "") {
+            set_cookie("achievements", get_cookie("file") + "*" + get_cookie("id"));
+        }
+        else {
+            set_cookie("achievements", get_cookie("achievements") + "," + get_cookie("file") + "*" + get_cookie("id"));
+        }
+    } 
 
 
 }

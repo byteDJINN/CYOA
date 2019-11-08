@@ -6,12 +6,13 @@ text = file.read()
 pages = text.split("")
 n = len(pages)
 progress = 0
+ends = 0
 for p in pages:
   progress += 1
   
   if p != "":
     pg_number = re.match("^[0-9]+",p).group(0)
-    
+    text = str(p)
     try:
       choices = p[p.index("If you"):].split("If you ")
       text = p[:p.index("If you")]
@@ -35,6 +36,9 @@ for p in pages:
     text = text.group(1)
     text = text.replace("_","")
     output.write(text+"\n")
+    if "The End" in text:
+      ends += 1
+      print(ends)
     #break
   #print(progress/n*100)
 output.write("\n*\n")

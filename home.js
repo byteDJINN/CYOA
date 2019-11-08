@@ -49,8 +49,20 @@ function check_cookie(x, backup) {
 
     }
 }
+
 function select_cyoa(filename) {
     set_cookie("file", filename);
     set_cookie("id", 'start');
     window.location.href = "cyoa.html";
+}
+
+function get_achievements() {
+    var achievements = get_cookie("achievements").split(",");
+    for (var i = 0; i < achievements.length; i++) {
+        var story = achievements[i].split("*")[0];
+        document.getElementById(story + "_progress").innerHTML = (Number(document.getElementById(story + "_progress").innerHTML.split("/")[0]) + 1) +"/"+ document.getElementById(story + "_progress").innerHTML.split("/")[1];
+    }
+    if (document.getElementById(story + "_progress").innerHTML.split("/")[0] == document.getElementById(story + "_progress").innerHTML.split("/")[1]) {
+        document.getElementById(story + "_progress").style.color = "green";
+    }
 }

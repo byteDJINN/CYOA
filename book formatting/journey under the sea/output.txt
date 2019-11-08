@@ -1,5 +1,6 @@
 *2
 Page 2
+^Next page,3
 You are an underwater explorer. You are leaving to explore the deepest oceans. You must find
 the lost city of Atlantis. This is your most challenging assignment.
 It is morning and the sun pushes up on the
@@ -276,7 +277,6 @@ help you?
 
 *19
 Page 19
-^Next page,20
 You wait for the shark to go away. But then you
 notice other sharks coming to join in the hunt.
 They circle you, coming closer and faster each
@@ -286,11 +286,11 @@ The End
 
 *20
 Page 20
+^Next page,21
 
 
 *21
 Page 21
-^Next page,22
 You fire the special propulsion charge and zoom
 upward through the water, frightening schools of
 fish as you go. You become dizzy and lose track of
@@ -330,7 +330,6 @@ to Atlantis.
 
 *23
 Page 23
-^Next page,24
 Now is the time for decision. You check all the
 controls of the Seeker, grit your teeth, and push
 the control column into the deep dive position.
@@ -350,6 +349,7 @@ The End
 
 *24
 Page 24
+^Next page,25
 You are able to capture the bubbling gases and
 fill the tanks of the Seeker, enough to allow it to
 rise. Slowly, the Seeker rises out of the canyon,
@@ -368,7 +368,6 @@ Turn to page 6.
 
 *26
 Page 26
-^Next page,27
 The only way to get beyond the door is to blast it
 away, or so you believe. The Seeker's laser cannon is powerful and you position the Seeker to fire.
 Pushing the fire button, you send a powerful beam
@@ -455,7 +454,6 @@ good or evil? Do they know of the secret passageway?
 
 *31
 Page 31
-^Next page,32
 You cruise through the grotto past the wreck of
 the submarine and then you spot another ship
 wreck. And then another. They, too, are covered
@@ -558,7 +556,6 @@ unable to go forward or return to the Seeker.
 
 *37
 Page 37
-^Next page,38
 The dolphin might help and might not. You
 decide to chance it alone. So, up you head, swimming towards the surface. The dolphin follows for
 some time, and then swims off. You rest for awhile
@@ -608,7 +605,6 @@ She tells you about a group of people called the
 Nodoors. 
 *40
 Page 40
-^Next page,41
 The Atlanteans have lived in peace for thousands
 of years. They have no love of warfare. Their
 civilization is technologically very advanced and a
@@ -751,7 +747,6 @@ Turn to page 48.
 
 *47
 Page 47
-^Next page,48
 A helicopter is sent to pick you up and return
 you to an air base for a flight back to the United
 States. Newspaper reports indicate that the search
@@ -765,6 +760,7 @@ The End
 
 *48
 Page 48
+^Next page,49
 Again the Seeker is lowered over the side of the
 Maray and slips into the ocean. Fish swim by peering cautiously at you in your metal shell. The sunlight fades as you descend into the abyss.
 You are headed for the giant canyon below that
@@ -907,7 +903,6 @@ escape so that you can go back to your own world.
 
 *58
 Page 58
-^Next page,59
 A large white light shines down on you as you lie
 on the operating table. Then you become unconscious. Pleasant thoughts, sounds, and pictures
 occupy your mind. When you awake, you feel no
@@ -1004,7 +999,6 @@ Page 62
 
 *63
 Page 63
-^Next page,64
 There is one way out, you decide. Leave the
 Seeker and try to reach the surface on your own.
 You enter the airlock chamber which gives you
@@ -1110,7 +1104,6 @@ Turn to page 6.
 
 *68
 Page 68
-^Next page,69
 A violent storm is reported heading your way.
 The captain decides to move the Maray to the
 shelter of a nearby island harbor. It is too dangerous to remain where you are. Deckhands lash the
@@ -1199,7 +1192,6 @@ the laser beam? If so, turn to page 93.
 
 *73
 Page 73
-^Next page,74
 The idea of being injected with a serum and
 joining them for the rest of your life is awful. You
 must plan an escape.
@@ -1292,6 +1284,7 @@ The End
 
 *78
 Page 78
+^Next page,79
 
 
 *79
@@ -1315,7 +1308,6 @@ Turn to page 50.
 
 *80
 Page 80
-^Next page,81
 An advisor to a king! What a chance. Maybe the
 king has ruled so long that he is out of touch with
 the people. Perhaps as his advisor you can help
@@ -1403,7 +1395,6 @@ Page 84
 
 *85
 Page 85
-^Next page,86
 People ride dolphins, and you have met scuba
 divers who reported they held onto the flukes of
 whales for short rides. It sounds crazy, but this may
@@ -1488,7 +1479,6 @@ thought-traveler.
 
 *89
 Page 89
-^Next page,90
 No, you will not dive down toward the center of
 the earth. Once through the thin outer layer of the
 earth, you know that the regions beneath change
@@ -1561,7 +1551,6 @@ You may become a farmer or a musician.
 
 *93
 Page 93
-^Next page,94
 ll try to blast the hatch right off its hinges.
 You'
 You have the power. Your finger presses the red
@@ -1599,7 +1588,6 @@ beckon to you to follow them.
 
 *95
 Page 95
-^Next page,96
 This is too much for you. It is like a nightmare
 and you decide to turn back. But going back is
 much harder than you expected. The electrons
@@ -1655,7 +1643,6 @@ A sense of peace fills you.
 
 *97
 Page 97
-^Next page,98
 You have a laser pistol that you carry for
 emergencies. You blast a hole in the whirlpool wall
 and dive through it. Facing you is a school of fish
@@ -1727,6 +1714,7 @@ The End
 
 *100
 Page 100
+^Next page,101
 The ocean floor has a small metal hatch on it.
 You pull with all your strength but it will not open.
 You rest for a moment and look through the wall of
@@ -1745,7 +1733,6 @@ Turn to page 55.
 
 *101
 Page 101
-^Next page,102
 t give up your body. It might be all
 You just can'
 right for the Atlanteans to move about as pure
@@ -1869,6 +1856,7 @@ The End
 
 *108
 Page 108
+^Next page,109
 During the night, you are awakened by the
 sound of voices talking quietly. Listening, you
 realize that a group of Nodoors is planning an
@@ -1881,7 +1869,6 @@ simple, but nothing is easy.
 
 *109
 Page 109
-^Next page,110
 Suddenly the door bursts open. Three guards
 armed with special weapons rush in. They fire the
 weapons and in a flash of brilliant light you and
@@ -1980,6 +1967,8 @@ You and the people are free; the king is put in
 prison. The revolt is a success.
 The End
 
+www.read.forumsplace.com
+
+
+
 *
-
-

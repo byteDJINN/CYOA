@@ -6,8 +6,8 @@ You awoke.
 
 *death
 The End
-^ restart,start
 You have died.
+The End
 
 *reaper
 The Reaper

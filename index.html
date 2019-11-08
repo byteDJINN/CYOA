@@ -9,7 +9,7 @@
 
     <button onclick="window.location.href='/cyoa.html'" id="home_button">Game</button>
     <div id="text">
-        Version: 1.0.1<br />
+        Version: 1.1.2<br />
         Developed by Elodin77<br /><br />
         This is a program which I have coded in my spare time. If you find any bugs or far more importantly, have your own story
         that you want me to add. I would happy to add it, I also have some skills at Regex, meaning that you can probably give me the story
@@ -20,9 +20,18 @@
         check that the file name you specified is a valid file.<br /><br />
         <b>Short List of Adventures:</b>
         <ul>
-            <li><a href="javascript:select_cyoa('testing.txt');">Testing</a></li>
-            <li><a href="javascript:select_cyoa('journey_under_the_sea.txt');">Journey Under the Sea</a></li>
-            <li><a href="javascript:select_cyoa('secret_of_the_pyramids.txt');">Secret of the Pyramids</a></li>
+            <li>
+                <a href="javascript:select_cyoa('testing.txt');">Testing</a>
+                <span id="testing.txt_progress">0/1</span>
+            </li>
+            <li>
+                <a href="javascript:select_cyoa('journey_under_the_sea.txt');">Journey Under the Sea</a>
+                <span id="journey_under_the_sea.txt_progress">0/42</span>
+            </li>
+            <li>
+                <a href="javascript:select_cyoa('secret_of_the_pyramids.txt');">Secret of the Pyramids</a>
+                <span id="secret_of_the_pyramids.txt_progress">0/22</span>
+            </li>
 
         </ul>
 
@@ -30,11 +39,16 @@
     </div><br />
 
     <button onclick="set_cookie('id','start')" id="fancy_btn">Restart Adventure</button><br><br>
+    <button onclick="set_cookie('achievements','')" id="fancy_btn">Restart Achievements</button><br><br>
+
     <!-- hitwebcounter Code START -->
-    <img id="counter" src="http://hitwebcounter.com/counter/counter.php?page=7158801&style=0007&nbdigits=5&type=page&initCount=0" title="Counter" Alt="Counter" border="0">                                     <br />
-    <img id="counter" src="http://hitwebcounter.com/counter/counter.php?page=7158810&style=0007&nbdigits=5&type=ip&initCount=0" title="Counter for tumblr" Alt="Counter for tumblr" border="0">
-
+    <div id="text">
+    Total Page Visits: <img id="counter" src="http://hitwebcounter.com/counter/counter.php?page=7158801&style=0007&nbdigits=5&type=page&initCount=0" title="Counter" Alt="Counter" border="0"><br />
+    Unique Page Visits: <img id="counter" src="http://hitwebcounter.com/counter/counter.php?page=7158810&style=0007&nbdigits=5&type=ip&initCount=0" title="Counter for tumblr" Alt="Counter for tumblr" border="0"><br />
+    </div>
 </body>
-
+<script>
+    get_achievements();
+</script>
 
 </html>

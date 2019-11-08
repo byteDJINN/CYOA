@@ -51,6 +51,6 @@ body {
 
 
 #counter {
-    width: 10%;
-    height: auto;
+    width: auto;
+    height: 30px;
 }
