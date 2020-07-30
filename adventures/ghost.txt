@@ -1,9 +1,7 @@
 *start
 Introduction
-^ Begin writing,1
+^ Open up your diary and begin to write,1
 This is an original story written by me, Elodin77.
-
-You pick up your diary. You begin to write.
 
 *1
 Day 1 
