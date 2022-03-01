@@ -4,3 +4,5 @@ Just go to __https://elodin77.github.io/CYOA/__ and you can see it for yourself.
 # CYOA
 Choose Your Own Adventure collection. This is a project I made in my spare time, it turns normal CYOA books into an interactive game. I made this in a single day, with multiple small updates since then.
 
+You can contact me on Discord at DJay#3222
+
